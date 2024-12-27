@@ -1,0 +1,18 @@
+spring:
+  datasource:
+    password: 123456
+    username: root
+    url: jdbc:mysql://localhost:3306/melonReadDB
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+server:
+  port: 8848
+  address: 0.0.0.0
+#mybatis-plus:
+#  global-config:
+#    db-config:
+#      id-type: auto
+#mybatis-plus日志
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
