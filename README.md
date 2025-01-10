@@ -48,7 +48,7 @@ o  **接口通信**：统一响应结果封装设计，确保前后端通信高�
 
     <div style="color:#4df;text-align:center;font-weight:bold;font-size:2em;background-color:#ffc">vue工程文件</div>
 
-   ![vsProject](D:\GitHub\MelonRead\images\vsProject.png)
+   <img src="images\vsProject.png" alt="vsProject" />
 
     <div style="color:#4df;text-align:center;font-weight:bold;font-size:2em;background-color:#ffc">实现效果</div>
 
@@ -56,11 +56,11 @@ o  **接口通信**：统一响应结果封装设计，确保前后端通信高�
 
    
 
-   ![屏幕截图 2025-01-10 103555](D:\GitHub\MelonRead\images\屏幕截图 2025-01-10 103555.png)
+   <img src="images\屏幕截图 2025-01-10 103555.png" alt="屏幕截图 2025-01-10 103555" />
 
-   ![屏幕截图 2025-01-10 103619](images\屏幕截图 2025-01-10 103619.png)
+   <img src="images\屏幕截图 2025-01-10 103619.png" alt="屏幕截图 2025-01-10 103619" />
 
-![屏幕截图 2025-01-10 103816](D:\GitHub\MelonRead\images\屏幕截图 2025-01-10 103816.png)
+<img src="images\屏幕截图 2025-01-10 103816.png" alt="屏幕截图 2025-01-10 103816" />
 
 
 
